@@ -1,0 +1,4 @@
+tensorflow>=2.4.0
+pygame>=2.0.0
+numpy>=1.19.5
+matplotlib>=3.3.4
