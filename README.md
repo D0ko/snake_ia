@@ -22,7 +22,7 @@ L'agent d'IA apprend à jouer au Snake en maximisant les récompenses (manger de
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/votre-nom/snake-ai.git
+git clone https://github.com/D0ko/snake-ai.git
 cd snake-ai
 
 # Installer les dépendances
