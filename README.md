@@ -93,10 +93,6 @@ Après 1000 épisodes d'entraînement, l'agent atteint généralement un score m
 - Créer différents niveaux de difficulté
 - Optimiser la représentation d'état pour de meilleures performances
 
-## Author
-
-Doko
-
 ## 📜 Licence
 
 MIT
